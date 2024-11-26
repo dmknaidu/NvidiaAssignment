@@ -9,9 +9,18 @@ This project provides a framework for evaluating the quality of synthetic human 
 
 ## Prerequisites
 1. **Python 3.7+** installed.
-2. Install dependencies using:
+2. ### Prerequisite: Clone the fid-metrics Repository
+   This project uses the `fid-metrics` repository for FID and FVD computations. Clone the repository and set up the environment before running the project:
+      # Clone the repository
+        git clone https://github.com/npurson/fid-metrics.git
+      # Navigate into the directory
+        cd fid-metrics
+      # Set the environment variable for PYTHONPATH
+        export PYTHONPATH=$(pwd):$PYTHONPATH
+3. Install dependencies using:
    ```bash
-   pip install -r requirements.txt
+         pip install -r requirements.txt
+
 # How to Use
 
 1. **Download Sample Videos**:  
