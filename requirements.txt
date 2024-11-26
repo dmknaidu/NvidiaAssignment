@@ -1,0 +1,5 @@
+gradio==3.42.0
+matplotlib==3.8.0
+Pillow==10.0.0
+PyYAML==6.0
+subprocess.run
