@@ -1,7 +1,7 @@
-#### Evaluation Framework for Synthetic Human Action Recognition
+# Evaluation Framework for Synthetic Human Action Recognition
 This project provides a framework for evaluating the quality of synthetic human action videos using FID-VID and FVD metrics. Users can upload videos to perform quantitative evaluations, visualize results, and generate comparative graphs.
 
-### Project Overview
+## Project Overview
 ## Purpose:
 
 To set up a local workflow with Gradio to evaluate synthetic data quality using FID-VID and FVD metrics.
