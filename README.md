@@ -29,9 +29,9 @@ This project provides a framework for evaluating the quality of synthetic human 
    ```bash
    python main.py
 3. **Use the Interface**:
-    . Select a metric (FID-VID or FVD).
-    . Upload two videos (one real and one synthetic) for evaluation.
-    . View the computed metric values and visualization.
+    - Select a metric (FID-VID or FVD).
+    - Upload two videos (one real and one synthetic) for evaluation.
+    - View the computed metric values and visualization.
 
 #Outputs
 1. Metric Results: Example - FID-VID,FVD
