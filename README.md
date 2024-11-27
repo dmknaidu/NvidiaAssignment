@@ -36,3 +36,6 @@ This project provides a framework for evaluating the quality of synthetic human 
 #Outputs
 1. Metric Results: Example - FID-VID,FVD
 2. Visualization: Scatter plot comparing FID-VID and FVD values.
+
+#Demo Video Link:
+https://youtu.be/z1J4cyMaayU?si=pidEtYN5ifa1QxN8
